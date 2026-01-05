@@ -111,5 +111,9 @@ It is a strong portfolio project for analytics-focused roles.
 
 ---
 
+## 📸 Dashboard Preview
 
+![Game Analysis](https://github.com/aasritkrishna123/Game-Analysis-Project/blob/main/Screenshot%202026-01-05%20190058.png)
+
+---
 
