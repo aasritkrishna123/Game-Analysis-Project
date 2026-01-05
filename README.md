@@ -115,5 +115,7 @@ It is a strong portfolio project for analytics-focused roles.
 
 ![Game Analysis](https://github.com/aasritkrishna123/Game-Analysis-Project/blob/main/Screenshot%202026-01-05%20190058.png)
 
+![Game Analysis](https://github.com/aasritkrishna123/Game-Analysis-Project/blob/main/Screenshot%202026-01-05%20190344.png)
+
 ---
 
