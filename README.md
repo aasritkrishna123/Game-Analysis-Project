@@ -69,6 +69,12 @@ This data enables both **statistical analysis** and **visual storytelling**.
 
 ---
 
+🔗 Live Dashboard
+
+👉 Live Dashboard'https://app.powerbi.com/groups/me/reports/c2f6a5ae-a594-44cc-b942-8b21588710dc/7821e7203c5bd799cecd?experience=power-bi'
+
+---
+
 ## 📌 Business Recommendations
 
 ### 1. 🎯 Focus on High-Performing Genres
